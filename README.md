@@ -4,21 +4,21 @@
 
 Ce projet consiste à simuler une ou plusieurs partie du jeux de d’Alembert à l’aide de processus et de tubes. Les règles du jeux sont :
 
-    • Une grille de dimension 11x11
+• Une grille de dimension 11x11
     
-    • Les joueurs commencent au centre de la grille (6,6)
+• Les joueurs commencent au centre de la grille (6,6)
     
-    • 7 obstacles sont générés aléatoirement au début de chaque partie 
+• 7 obstacles sont générés aléatoirement au début de chaque partie 
     
-    • Lorsqu’un joueur arrive sur un obstacle, il revient au milieu
+• Lorsqu’un joueur arrive sur un obstacle, il revient au milieu
     
-    • Lorsqu’un joueur arrive une case déjà occupé par l'adversaire, l'adversaire revient au milieu
+• Lorsqu’un joueur arrive une case déjà occupé par l'adversaire, l'adversaire revient au milieu
     
-    • Lorsqu’un joueur essaient de quitter la grille, il passe son tour
+• Lorsqu’un joueur essaient de quitter la grille, il passe son tour
     
-    • Le but est d’atteindre la case (1,1) ou (11, 11)
+• Le but est d’atteindre la case (1,1) ou (11, 11)
     
-    • Lors de leur tour les joueurs tirent deux chiffres au hasard entre -2 et 2 représentent leur déplacement vertical et horizontal.
+• Lors de leur tour les joueurs tirent deux chiffres au hasard entre -2 et 2 représentent leur déplacement vertical et horizontal.
 
 ## Participant
 
