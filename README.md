@@ -1,4 +1,4 @@
-#En collaboration avec horiantoine (https://github.com/horiantoine)
+En collaboration avec horiantoine (https://github.com/horiantoine)
 
 # Jeu de d'Alembert
 
